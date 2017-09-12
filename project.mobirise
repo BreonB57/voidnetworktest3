@@ -363,7 +363,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/void.png",
+              "src": "@PROJECT_PATH@/assets/images/void-network-extra-colour.jpg",
               "height": 128,
               "alt": "Mobirise",
               "link": "#top",
@@ -536,7 +536,7 @@
             }
           },
           "title3": "Admin",
-          "text3": "Shadow<br>Shadow_Sempaii",
+          "text3": "Shadow Senpai<br>Shadow_Senpai",
           "media4": {
             "image": {
               "class": "mbr-figure__img",
@@ -550,7 +550,7 @@
             }
           },
           "title4": "Admin",
-          "text4": "XD Slayer<br>BoyValentine"
+          "text4": "BoyValentine<br>XD_Killer"
         }
       ]
     }
