@@ -19,7 +19,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 14,
+    "uniqCompNum": 15,
     "versionPublish": "3.12.1",
     "snow": "",
     "favicon": "@PROJECT_PATH@/assets/images/_1",
@@ -508,7 +508,7 @@
             }
           },
           "title1": "Server owner",
-          "text1": "Mega<br>megagaming135",
+          "text1": "Mega (Discord)<br>megagaming135",
           "media2": {
             "image": {
               "class": "mbr-figure__img",
@@ -522,7 +522,7 @@
             }
           },
           "title2": "Server owner",
-          "text2": "lfleo<br>Lfleo",
+          "text2": "lfleo (Discord)<br>Lfleo",
           "media3": {
             "image": {
               "class": "mbr-figure__img",
@@ -551,6 +551,47 @@
           },
           "title4": "Admin",
           "text4": "BoyValentine<br>XD_Killer"
+        },
+        {
+          "alias": "spacem/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "title3",
+          "_anchor": "title3-e",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/1.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.75,
+            "overlayColor": "#151515",
+            "showSubtitle": true,
+            "showTitle": true,
+            "showSeparator": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "subtitle": "Now open",
+          "title": "<span style=\"font-weight: normal;\"><i>Join our discord!</i></span>",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" href=\"https://discord.gg/GZzKa2y\" class=\"btn btn-warning\" role=\"button\">Click here</a>",
+          "_styles": {
+            "H5": {
+              "color": "#ffffff"
+            },
+            "SPAN": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
